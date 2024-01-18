@@ -1,2 +1,2 @@
 # SQL_PROJECT
-My SQL Database application  
+My SQL Database Banking_Management Project 
